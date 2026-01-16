@@ -85,7 +85,7 @@ CONFIG = {
     # 📥 IP源配置 - 多API源并发采集获取IP地址
     "ip_sources": [
         # 'https://cf.hyli.xyz/', # 行雺
-        # 'https://raw.githubusercontent.com/ymyuuu/IPDB/main/BestCF/bestcfv4.txt', # Ymyuuu
+        'https://raw.githubusercontent.com/ymyuuu/IPDB/main/BestCF/bestcfv4.txt', # Ymyuuu
         # 'https://ipdb.api.030101.xyz/?type=bestcf&country=true', # Ymyuuu（备用）
         'https://api.uouin.com/cloudflare.html', # 麒麟
         'https://api.urlce.com/cloudflare.html', # 麒麟（备用）
